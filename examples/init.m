@@ -1,0 +1,2 @@
+addpath ../mocap
+addpath ..
